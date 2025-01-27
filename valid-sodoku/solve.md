@@ -12,3 +12,8 @@ https://leetcode.com/problems/valid-sudoku/
 ## SOLVING
 
 1 thiết lập 3 mảng chuồng rows, cols, square để thao tác là xong
+
+
+
+
+
